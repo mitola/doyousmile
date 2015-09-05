@@ -3,4 +3,5 @@ Android Google vision application with TextToSpeech functionality and Camera pre
 
 Dependencies: 
   - com.google.android.gms.vision.DEPENDENCIES
-  - tts
+  - tts - text to speech
+  - admob
